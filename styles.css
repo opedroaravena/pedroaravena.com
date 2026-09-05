@@ -67,7 +67,26 @@ a:focus-visible {
 }
 
 header {
+  display: flex;
+  align-items: center;
+  gap: 1.15rem;
   margin-bottom: 0.25rem;
+}
+
+.portrait {
+  display: block;
+  flex: 0 0 auto;
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: 50% 20%;
+  filter: grayscale(1);
+}
+
+.brand {
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 .masthead {
@@ -202,6 +221,15 @@ footer p {
   body {
     padding: 36px 22px 72px;
     font-size: 17px;
+  }
+
+  header {
+    gap: 0.85rem;
+  }
+
+  .portrait {
+    width: 80px;
+    height: 80px;
   }
 
   h1 {
