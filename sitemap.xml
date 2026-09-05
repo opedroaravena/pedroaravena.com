@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://pedroaravena.com/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://pedroaravena.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pedroaravena.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pedroaravena.com/"/>
+  </url>
+  <url>
+    <loc>https://pedroaravena.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://pedroaravena.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pedroaravena.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pedroaravena.com/"/>
+  </url>
+  <url>
+    <loc>https://pedroaravena.com/writing/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://pedroaravena.com/writing/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pedroaravena.com/en/writing/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pedroaravena.com/writing/"/>
+  </url>
+  <url>
+    <loc>https://pedroaravena.com/en/writing/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://pedroaravena.com/writing/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pedroaravena.com/en/writing/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pedroaravena.com/writing/"/>
+  </url>
+  <url>
+    <loc>https://pedroaravena.com/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://pedroaravena.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pedroaravena.com/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pedroaravena.com/contact/"/>
+  </url>
+  <url>
+    <loc>https://pedroaravena.com/en/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://pedroaravena.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pedroaravena.com/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pedroaravena.com/contact/"/>
+  </url>
+</urlset>
